@@ -22,4 +22,7 @@ img {
 	width: 400px;
 }
 
-input {width: 250px}
+input {
+	width: 250px;
+	border-radius: 10px;
+}
